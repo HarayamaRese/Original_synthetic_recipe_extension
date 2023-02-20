@@ -1,0 +1,31 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "kfnyf:Parrot_egg"
+        },
+        "key": {
+            "C": {
+                "data": 0,
+                "item": "minecraft:cookie"
+            },
+            "E": {
+                "data": 13,
+                "item": "minecraft:wool"
+            }
+        },
+        "pattern": [
+            " E ",
+            "ECE",
+            " E "
+        ],
+        "result": {
+            "count": 5,
+            "data": 0,
+            "item": "minecraft:parrot_spawn_egg"
+        },
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

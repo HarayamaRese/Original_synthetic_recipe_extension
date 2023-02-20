@@ -1,0 +1,31 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "kfnyf:Ghast_egg"
+        },
+        "key": {
+            "C": {
+                "data": 0,
+                "item": "minecraft:white_dye"
+            },
+            "E": {
+                "data": 0,
+                "item": "minecraft:wool"
+            }
+        },
+        "pattern": [
+            " E ",
+            "ECE",
+            " E "
+        ],
+        "result": {
+            "count": 5,
+            "data": 0,
+            "item": "minecraft:ghast_spawn_egg"
+        },
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

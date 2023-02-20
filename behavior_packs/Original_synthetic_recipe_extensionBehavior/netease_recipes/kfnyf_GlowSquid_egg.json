@@ -1,0 +1,31 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "kfnyf:GlowSquid_egg"
+        },
+        "key": {
+            "C": {
+                "data": 0,
+                "item": "minecraft:glow_ink_sac"
+            },
+            "E": {
+                "data": 9,
+                "item": "minecraft:wool"
+            }
+        },
+        "pattern": [
+            " E ",
+            "ECE",
+            " E "
+        ],
+        "result": {
+            "count": 5,
+            "data": 0,
+            "item": "minecraft:glow_squid_spawn_egg"
+        },
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

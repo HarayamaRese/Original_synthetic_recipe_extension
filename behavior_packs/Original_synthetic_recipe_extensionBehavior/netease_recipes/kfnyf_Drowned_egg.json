@@ -1,0 +1,39 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "kfnyf:Drowned_egg"
+        },
+        "key": {
+            "B": {
+                "data": 0,
+                "item": "minecraft:water_bucket"
+            },
+            "D": {
+                "data": 0,
+                "item": "minecraft:copper_ingot"
+            },
+            "F": {
+                "data": 0,
+                "item": "minecraft:blue_dye"
+            },
+            "H": {
+                "data": 0,
+                "item": "minecraft:rotten_flesh"
+            }
+        },
+        "pattern": [
+            "HBH",
+            "DHF",
+            "H H"
+        ],
+        "result": {
+            "count": 10,
+            "data": 0,
+            "item": "minecraft:drowned_spawn_egg"
+        },
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

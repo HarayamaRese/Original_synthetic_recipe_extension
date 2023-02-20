@@ -1,0 +1,35 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "kfnyf:Cow_egg"
+        },
+        "key": {
+            "E": {
+                "data": 0,
+                "item": "minecraft:milk_bucket"
+            },
+            "F": {
+                "data": 0,
+                "item": "minecraft:beef"
+            },
+            "I": {
+                "data": 0,
+                "item": "minecraft:leather"
+            }
+        },
+        "pattern": [
+            "III",
+            "FEF",
+            "III"
+        ],
+        "result": {
+            "count": 5,
+            "data": 0,
+            "item": "minecraft:cow_spawn_egg"
+        },
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

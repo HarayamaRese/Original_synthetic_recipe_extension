@@ -1,0 +1,27 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "kfnyf:Husk_egg"
+        },
+        "key": {
+            "E": {
+                "data": 0,
+                "item": "minecraft:rotten_flesh"
+            }
+        },
+        "pattern": [
+            "E E",
+            " E ",
+            "E E"
+        ],
+        "result": {
+            "count": 5,
+            "data": 0,
+            "item": "minecraft:husk_spawn_egg"
+        },
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

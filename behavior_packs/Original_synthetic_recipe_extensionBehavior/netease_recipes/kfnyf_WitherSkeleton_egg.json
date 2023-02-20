@@ -1,0 +1,31 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "kfnyf:WitherSkeleton_egg"
+        },
+        "key": {
+            "C": {
+                "data": 0,
+                "item": "minecraft:stone_sword"
+            },
+            "E": {
+                "data": 15,
+                "item": "minecraft:wool"
+            }
+        },
+        "pattern": [
+            " E ",
+            "ECE",
+            " E "
+        ],
+        "result": {
+            "count": 5,
+            "data": 0,
+            "item": "minecraft:wither_skeleton_spawn_egg"
+        },
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

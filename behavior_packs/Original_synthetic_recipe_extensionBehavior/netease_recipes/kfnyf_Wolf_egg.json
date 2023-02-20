@@ -1,0 +1,27 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "kfnyf:Wolf_egg"
+        },
+        "key": {
+            "E": {
+                "data": 0,
+                "item": "minecraft:bone"
+            }
+        },
+        "pattern": [
+            " E ",
+            "EEE",
+            " E "
+        ],
+        "result": {
+            "count": 5,
+            "data": 0,
+            "item": "minecraft:wolf_spawn_egg"
+        },
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

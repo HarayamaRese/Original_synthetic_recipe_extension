@@ -1,0 +1,31 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "kfnyf:Guardia_egg"
+        },
+        "key": {
+            "C": {
+                "data": 0,
+                "item": "minecraft:orange_dye"
+            },
+            "E": {
+                "data": 9,
+                "item": "minecraft:wool"
+            }
+        },
+        "pattern": [
+            " E ",
+            "ECE",
+            " E "
+        ],
+        "result": {
+            "count": 5,
+            "data": 0,
+            "item": "minecraft:guardian_spawn_egg"
+        },
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}
